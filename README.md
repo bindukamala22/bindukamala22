@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bindukamala
+- 👋 Hi, I’m @bindukamala22
 - 👀 I’m interested in Cybersecurity and Business Management
 - 🌱 I’m currently learning CISSP
 - 💞️ I’m looking to collaborate on Cybersecurity and Business stategy projects
